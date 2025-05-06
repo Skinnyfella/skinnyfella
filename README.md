@@ -2,6 +2,11 @@
 # 💫 About Me:
 I'm Ayanfe Toyinbo, a passionate junior full-stack developer specializing in backend development with a strong foundation in creating scalable, efficient solutions. With a keen eye for design and a love for seamless user experiences, I build modern, responsive websites and applications using clean, efficient code. My approach blends technical expertise with creative problem-solving to deliver functional and visually appealing solutions. As an early-career developer, I'm dedicated to mastering the latest technologies, with a focus on backend systems, APIs, and database management, while continuously enhancing my full-stack skill set.
 
+## Skills
+- **Backend**: Node.js, REST APIs, SQL  
+- **Frontend**: JavaScript, React  
+- **Tools & Practices**: Git, Postman, Responsive Design, Clean Code Principles 
+
 <br>Education & Certifications<br>Full-Stack Web Development Bootcamp<br>Udemy, 2024<br>[View Certificate](https://www.udemy.com/certificate/UC-b8d8ed60-4702-425b-a902-d1ea1951f60f/)<br>Completed an intensive bootcamp covering JavaScript, React, Node.js, SQL, and REST API development, with hands-on projects in building full-stack applications.
 
 
