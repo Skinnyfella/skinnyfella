@@ -7,7 +7,11 @@ I'm Ayanfe Toyinbo, a passionate junior full-stack developer specializing in bac
 - **Frontend**: JavaScript, React  
 - **Tools & Practices**: Git, Postman, Responsive Design, Clean Code Principles 
 
-<br>Education & Certifications<br>Full-Stack Web Development Bootcamp<br>Udemy, 2024<br>[View Certificate](https://www.udemy.com/certificate/UC-b8d8ed60-4702-425b-a902-d1ea1951f60f/)<br>Completed an intensive bootcamp covering JavaScript, React, Node.js, SQL, and REST API development, with hands-on projects in building full-stack applications.
+## Education & Certifications
+- **Full-Stack Web Development Bootcamp**  
+  - Udemy, 2024  
+  - [View Certificate](https://www.udemy.com/certificate/UC-b8d8ed60-4702-425b-a902-d1ea1951f60f/)  
+  - Completed an intensive bootcamp covering JavaScript, React, Node.js, SQL, and REST API development, with hands-on projects in building full-stack applications.
 
 
 ## 🌐 Socials:
