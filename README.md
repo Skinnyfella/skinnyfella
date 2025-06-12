@@ -1,17 +1,65 @@
 # Ayanfe
 # 💫 About Me:
-I'm Ayanfe Toyinbo, a passionate junior full-stack developer specializing in backend development with a strong foundation in creating scalable, efficient solutions. With a keen eye for design and a love for seamless user experiences, I build modern, responsive websites and applications using clean, efficient code. My approach blends technical expertise with creative problem-solving to deliver functional and visually appealing solutions. As an early-career developer, I'm dedicated to mastering the latest technologies, with a focus on backend systems, APIs, and database management, while continuously enhancing my full-stack skill set.
+# 👋 Hi, I'm Ayanfe Toyinbo
 
-## Skills
-- **Backend**: Node.js, REST APIs, SQL  
-- **Frontend**: JavaScript, React  
-- **Tools & Practices**: Git, Postman, Responsive Design, Clean Code Principles 
+I'm a **passionate junior full-stack developer** with a strong focus on **backend development**, **Python automation**, and **web scraping systems**. I specialize in building **scalable**, **efficient**, and **cleanly architected solutions** for the modern web.
+
+With a blend of **technical proficiency** and **creative problem-solving**, I create **responsive**, **user-friendly** applications and tools — from dynamic web platforms to data-driven automations and cold email campaigns.
+
+---
+
+## 🔧 What I Build
+
+- 🔁 **Automation Scripts & Workflows** – Custom bots, cron jobs, task runners.
+- 🔍 **Web Scrapers** – Python-based scrapers using ScraperAPI, BeautifulSoup, Selenium.
+- 💌 **Cold Email Systems** – Backend tools for lead generation and personalized email outreach.
+- 🌐 **Full-stack Web Apps** – Modern UI with React + RESTful APIs + PostgreSQL/MongoDB.
+
+---
+
+## 💼 Tech Stack
+
+### 🔙 Backend
+- **Python** (automation, scraping, data pipelines)
+- **Node.js** (Express, REST APIs)
+- **PostgreSQL**, **MongoDB**
+- **ScraperAPI**, **Selenium**, **BeautifulSoup**, **Puppeteer**
+
+### 🎨 Frontend
+- **JavaScript**, **React**
+- Responsive Design with Flexbox/Grid
+
+### ⚙️ Tools & Practices
+- **Git**, **Postman**, **Dotenv**
+- **Clean Code Principles**, **Modular Folder Structures**
+- **Linux CLI**, **Cron Jobs**, **Axios**, **Insomnia**
+
+---
+
+## 🚀 Current Focus
+
+- Mastering **AI-powered automation** & scraping workflows  
+- Building scalable cold email campaigns (lead collection → enrichment → email sending)
+- Deepening expertise in **Python**, **APIs**, and backend architecture
+
+---
+
+## 📌 Featured Projects
+
+- **Real Estate Scraper** – Extracts Zillow listings to CSV with clean backend structure (ScraperAPI + BS4)
+- **Cold Outreach System** – Python-based engine that scrapes, enriches, and emails leads using SMTP
+- **Travel Guide App** – React + Node.js based app with location-based content and search
+
 
 ## Education & Certifications
 - **Full-Stack Web Development Bootcamp**  
   - Udemy, 2024  
   - [View Certificate](https://www.udemy.com/certificate/UC-b8d8ed60-4702-425b-a902-d1ea1951f60f/)  
   - Completed an intensive bootcamp covering JavaScript, React, Node.js, SQL, and REST API development, with hands-on projects in building full-stack applications.
+
+## 📫 Let’s Connect
+
+I'm always looking to collaborate or contribute to exciting backend or automation-focused projects.
 
 
 ## 🌐 Socials:
